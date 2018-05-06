@@ -70,7 +70,7 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: #212121;
+  border-bottom-color: #E0B0FF;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -81,7 +81,7 @@ body {
 
 .nav-masthead .active {
   color: #212121;
-  border-bottom-color: #7f8184;
+  border-bottom-color: #E0B0FF;
   font-size: 1.1em;
 }
 
