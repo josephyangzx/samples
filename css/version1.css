@@ -21,7 +21,7 @@
   }  
   .jumbotron {
       /*background-color: #3F93E5;*/
-      background-image: url(ocean.jpeg);
+      background-image: url(/samples/images/ocean.jpeg);
       background-position: center;
       color: #4f6b9a;
       margin-top: 0em;
